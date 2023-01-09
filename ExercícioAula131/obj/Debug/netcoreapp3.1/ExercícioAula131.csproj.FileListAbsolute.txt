@@ -1,0 +1,14 @@
+C:\Users\joelz\source\repos\ExercícioAula131\ExercícioAula131\bin\Debug\netcoreapp3.1\ExercícioAula131.exe
+C:\Users\joelz\source\repos\ExercícioAula131\ExercícioAula131\bin\Debug\netcoreapp3.1\ExercícioAula131.deps.json
+C:\Users\joelz\source\repos\ExercícioAula131\ExercícioAula131\bin\Debug\netcoreapp3.1\ExercícioAula131.runtimeconfig.json
+C:\Users\joelz\source\repos\ExercícioAula131\ExercícioAula131\bin\Debug\netcoreapp3.1\ExercícioAula131.runtimeconfig.dev.json
+C:\Users\joelz\source\repos\ExercícioAula131\ExercícioAula131\bin\Debug\netcoreapp3.1\ExercícioAula131.dll
+C:\Users\joelz\source\repos\ExercícioAula131\ExercícioAula131\bin\Debug\netcoreapp3.1\ExercícioAula131.pdb
+C:\Users\joelz\source\repos\ExercícioAula131\ExercícioAula131\obj\Debug\netcoreapp3.1\ExercícioAula131.csproj.CoreCompileInputs.cache
+C:\Users\joelz\source\repos\ExercícioAula131\ExercícioAula131\obj\Debug\netcoreapp3.1\ExercícioAula131.AssemblyInfoInputs.cache
+C:\Users\joelz\source\repos\ExercícioAula131\ExercícioAula131\obj\Debug\netcoreapp3.1\ExercícioAula131.AssemblyInfo.cs
+C:\Users\joelz\source\repos\ExercícioAula131\ExercícioAula131\obj\Debug\netcoreapp3.1\ExercícioAula131.dll
+C:\Users\joelz\source\repos\ExercícioAula131\ExercícioAula131\obj\Debug\netcoreapp3.1\ExercícioAula131.pdb
+C:\Users\joelz\source\repos\ExercícioAula131\ExercícioAula131\obj\Debug\netcoreapp3.1\ExercícioAula131.genruntimeconfig.cache
+C:\Users\joelz\source\repos\ExercícioAula131\ExercícioAula131\obj\Debug\netcoreapp3.1\ExercícioAula131.csproj.AssemblyReference.cache
+C:\Users\joelz\source\repos\ExercícioAula131\ExercícioAula131\obj\Debug\netcoreapp3.1\ExercícioAula131.GeneratedMSBuildEditorConfig.editorconfig
